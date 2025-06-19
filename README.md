@@ -49,6 +49,21 @@ Use at your own risk. You are responsible for how you apply this information.
 
 ---
 
+## 🙏 Credits & Thanks
+
+This project would not be possible without the contributions of these amazing developers:
+
+| Developer | Contribution | Project |
+|-----------|--------------|---------|
+| [@osm0sis](https://github.com/osm0sis) | Maintainer of the Play Integrity Fix (Fork) module | [Play Integrity Fix Fork](https://github.com/osm0sis/PlayIntegrityFork) |
+| [@5ec1cff](https://github.com/5ec1cff) | Creator of TrickyStore for spoofing Play Store status | [TrickyStore](https://github.com/5ec1cff/TrickyStore) |
+| [@KOWX712](https://github.com/KOWX712) | Developer of Tricky Addon (target package support) | [Tricky Addon](https://github.com/KOWX712/Tricky-Addon-Update-Target-List) |
+| [@PerformanC](https://github.com/PerformanC) | Developer of ReZygisk for KernelSU users | [ReZygisk](https://github.com/PerformanC/ReZygisk) |
+| [@LSPosed Team](https://github.com/LSPosed) | Developers of Shamiko root-hiding engine | [Shamiko](https://github.com/LSPosed/LSPosed.github.io) |
+
+❤️ Original work belongs to the respective developers.
+
+
 ## ⭐ Support
 
 If you find this project helpful, consider giving it a ⭐ to support future updates.
