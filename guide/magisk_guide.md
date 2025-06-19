@@ -53,9 +53,9 @@
 3. The TrickyStore WebUI will open
 
 Inside the WebUI:
-- Tap `⋮` (3-dots) → **Select All**
-- Deselect unnecessary apps (optional)
-- Tap `Security Patch` → **Get Patch**
+- Tap `⋮`  (3-dots) → **Select All**
+- Tap `Deselect unnecessary` 
+- Tap `Set Security Patch` → **Get Security Patch**
 - Tap **Save**
 
 ✅ Done? Now **reboot your device** again.
