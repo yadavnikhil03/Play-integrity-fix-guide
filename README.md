@@ -63,6 +63,7 @@ This project would not be possible without the contributions of these amazing de
 
 ❤️ Original work belongs to the respective developers.
 
+> 📄 Licensed under the [MIT License](LICENSE). Third-party modules are credited separately and retain their original licenses.
 
 ## ⭐ Support
 
