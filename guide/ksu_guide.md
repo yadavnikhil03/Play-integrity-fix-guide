@@ -52,7 +52,7 @@
 Inside the WebUI:
 - Tap `Select All`
 - Tap `Deselect unnecessary` 
-- Tap `Security Patch` → **Get Patch**
+- Tap `Set Security Patch` → **Get Security Patch**
 - Tap **Save**
 
 ✅ After saving, **reboot your device** again
