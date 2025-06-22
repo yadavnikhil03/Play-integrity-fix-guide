@@ -46,8 +46,8 @@
 
 ### 🔹 Step 3: Configure TrickyStore (WebUI)
 
-1. Open the **TrickyStore** app (or tap “Action” from KSU module section)
-2. WebUI will open in your browser
+1. Open the **WEB UI ** by tapping on the **Tricky Store addon's ** **ACTION ** button.
+2. WebUI will ask for the **root ** access, Grant it.
 
 Inside the WebUI:
 - Tap `Select All`
@@ -61,7 +61,7 @@ Inside the WebUI:
 
 ### 🔹 Step 4: Final Patch
 
-- Open **KernelSU > Modules**
+- Open **KernelSU > Modules Section**
 - Tap **Action** on the `Integrity Fix Mod` module
 - It will patch required props
 
