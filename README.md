@@ -38,7 +38,7 @@ This repository provides a complete, tested, and up-to-date guide to help you pa
 **A:** Anyone using rooted or custom ROM devices who needs to pass Google Play Integrity for apps like GPay, banking, or games.
 
 **Q:** Does this work on Android 14?  
-**A:** Yes — verified on Android 13 & 14 with both Magisk and KernelSU.
+**A:** Yes — verified on Android 13,14 & 15 with both Magisk and KernelSU.
 
 ---
 
