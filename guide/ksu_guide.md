@@ -15,7 +15,7 @@
 |--------------------------|----------------------------|------------------|
 | Enable Zygisk-like Patching | ReZygisk (KSU only)     | [Download](https://github.com/PerformanC/ReZygisk/releases) |
 | Core Integrity Fix       | Play Integrity Fix (Fork)  | [Download](https://github.com/osm0sis/PlayIntegrityFork/releases/) |
-| Prop Injector Logic      | Integrity Fix Mod          | [Download](https://github.com/user-attachments/files/20530542/IntergrityFix2.4.zip) |
+| Prop Injector Logic      | Integrity Fix Mod          | [Download](https://github.com/GotenAjje/Gotenajje/releases) |
 | Play Store Certification | TrickyStore                | [Download](https://github.com/5ec1cff/TrickyStore/releases/) |
 | Add Target Packages      | Tricky Addon               | [Download](https://github.com/KOWX712/Tricky-Addon-Update-Target-List/releases) |
 

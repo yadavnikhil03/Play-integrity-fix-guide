@@ -60,11 +60,16 @@ This project would not be possible without the contributions of these amazing de
 | [@KOWX712](https://github.com/KOWX712) | Developer of Tricky Addon (target package support) | [Tricky Addon](https://github.com/KOWX712/Tricky-Addon-Update-Target-List) |
 | [@PerformanC](https://github.com/PerformanC) | Developer of ReZygisk for KernelSU users | [ReZygisk](https://github.com/PerformanC/ReZygisk) |
 | [@LSPosed Team](https://github.com/LSPosed) | Developers of Shamiko root-hiding engine | [Shamiko](https://github.com/LSPosed/LSPosed.github.io) |
+| [@GotenAjje](https://github.com/GotenAjje) | Developer of Integrity Fix Mod | [Gotenajje1](https://github.com/GotenAjje/Gotenajje1) |
 
 ❤️ Original work belongs to the respective developers.
 
 > 📄 Licensed under the [MIT License](LICENSE). Third-party modules are credited separately and retain their original licenses.
 
 ## ⭐ Support
+<h2 align="center">🌟 Support This Project!</h2>
 
-If you find this project helpful, consider giving it a ⭐ to support future updates.
+<p align="center" style="font-size:1.5em;">
+  <strong>If you find this project helpful,<br>
+  please consider giving it a ⭐ to support future updates!</strong>
+</p>
