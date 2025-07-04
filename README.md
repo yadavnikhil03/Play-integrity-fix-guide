@@ -44,8 +44,14 @@ This repository provides a complete, tested, and up-to-date guide to help you pa
 
 ## ⚠️ Disclaimer
 
-This guide is provided for educational and research purposes only.  
-Use at your own risk. You are responsible for how you apply this information.
+This guide is provided **as-is** for **educational and research purposes only**.
+
+- You are solely responsible for how you use the information and modules referenced in this repository.
+- Module behavior, compatibility, and results may vary depending on your device, ROM, kernel, and root method.
+- We do **not own** or maintain the third-party modules linked in this guide (e.g., Play Integrity Fix, TrickyStore, MeowNa, etc.).
+- This guide does not guarantee the success of any fix or modification and is not liable for any misuse, damage, or software violations.
+
+> 🧠 Use this guide and any included tools **at your own risk**. If something breaks — you own it, not us.
 
 ---
 
