@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yadavnikhil03/Play-integrity-fix-guide/main/assets/meowna.png" alt="MeowNa Logo" width="200"/>
+  <img src="https://raw.githubusercontent.com/yadavnikhil03/Play-integrity-fix-guide/main/assets/Meow.jpg" alt="MeowNa Logo" width="200"/>
 </p>
 
 <h1 align="center">🐾 MeowNa Module – Universal Play Integrity Fix</h1>
