@@ -42,7 +42,8 @@
 
 ## 🐾 MeowNa Module (Alternative Method)
 
-> Use this if the standard Magisk or KernelSU methods don't work for your device (Banking Apps also works )
+> 💡 With MeowNa, you get Play Integrity fix, banking app compatibility, and deep spoofing features all in one clean WebUI. Works with both Magisk and KernelSU.
+
 <div align="center">
 
 <a href="https://github.com/yadavnikhil03/Play-integrity-fix-guide/blob/main/guide/meowna_guide.md" target="_blank">
