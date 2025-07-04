@@ -1,52 +1,46 @@
 <h1 align="center">🎯 Play Integrity Fix</h1>
 
-<p align="center">
-  Select your root method to access the full setup guide.
-</p>
+<p align="center">Choose based on what you need — all options require root.</p>
 
----
+<hr/>
 
-<div align="center">
+## ⚙️ Standard Root Setup  
+<sub>Pass all integrity checks. Root is visible to sensitive apps.</sub>
 
-<table>
+<table align="center" width="100%">
   <tr>
-    <td align="center" width="45%">
-      <a href="https://github.com/yadavnikhil03/Play-integrity-fix-guide/blob/main/guide/magisk_guide.md" target="_blank">
-        <img src="https://raw.githubusercontent.com/yadavnikhil03/Play-integrity-fix-guide/main/assets/magisk.png" width="70"/><br/>
-        <strong>🔧 Magisk Guide</strong>
+    <td align="center" width="50%">
+      <a href="https://github.com/yadavnikhil03/Play-integrity-fix-guide/blob/main/guide/magisk_guide.md">
+        <img src="https://raw.githubusercontent.com/yadavnikhil03/Play-integrity-fix-guide/main/assets/magisk.png" width="64"/><br/><br/>
+        <strong>🔧 Magisk</strong><br/>
+        <kbd>Setup Guide</kbd>
       </a>
     </td>
-    <td align="center" width="10%">
-      <!-- Spacer -->
-    </td>
-    <td align="center" width="45%">
-      <a href="https://github.com/yadavnikhil03/Play-integrity-fix-guide/blob/main/guide/ksu_guide.md" target="_blank">
-        <img src="https://raw.githubusercontent.com/yadavnikhil03/Play-integrity-fix-guide/main/assets/ksu.png" width="70"/><br/>
-        <strong>🧬 KernelSU Guide</strong>
+    <td align="center" width="50%">
+      <a href="https://github.com/yadavnikhil03/Play-integrity-fix-guide/blob/main/guide/ksu_guide.md">
+        <img src="https://raw.githubusercontent.com/yadavnikhil03/Play-integrity-fix-guide/main/assets/ksu.png" width="64"/><br/><br/>
+        <strong>🧬 KernelSU</strong><br/>
+        <kbd>Setup Guide</kbd>
       </a>
     </td>
   </tr>
 </table>
 
-</div>
+---
+
+## 🚀 Enhanced Compatibility  
+<sub>For apps that block root: GPay, banking, UPI, etc.</sub>
+
+<p align="center">
+  <a href="https://github.com/yadavnikhil03/Play-integrity-fix-guide/blob/main/guide/meowna_guide.md">
+    <img src="https://raw.githubusercontent.com/yadavnikhil03/Play-integrity-fix-guide/main/assets/Meow.jpg" width="64" style="border-radius: 12px;"/><br/><br/>
+    <strong>🐾 MeowNa Module</strong><br/>
+    <kbd>Module Guide</kbd>
+  </a>
+</p>
 
 ---
 
 <p align="center">
-  📘 Follow the guide based on your root method to pass:
+  <code>BASIC</code> · <code>DEVICE</code> · <code>STRONG</code> ✅ Passed
 </p>
-
-<p align="center">
-  <strong>BASIC ✅ DEVICE ✅ STRONG ✅</strong>
-</p>
-
-## 🐾 MeowNa Module (Alternative Method)
-
-> 💡 With MeowNa, you get Play Integrity fix, banking app compatibility, and deep spoofing features all in one clean WebUI. Works with both Magisk and KernelSU.
-
-<div align="center">
-
-<a href="https://github.com/yadavnikhil03/Play-integrity-fix-guide/blob/main/guide/meowna_guide.md" target="_blank">
-  <img src="https://raw.githubusercontent.com/yadavnikhil03/Play-integrity-fix-guide/main/assets/Meow.jpg" width="80"/><br/>
-  <strong>🚀 Use MeowNa Module</strong>
-</a>
