@@ -16,7 +16,7 @@
 |----------------------------|-------------|
 | Play Integrity Fix (Fork)  | [GitHub](https://github.com/osm0sis/PlayIntegrityFork/releases) |
 | TrickyStore                | [GitHub](https://github.com/5ec1cff/TrickyStore/releases) |
-| NoHello                    | [GitHub](https://github.com/5ec1cff/NoHello/releases) |
+| NoHello                    | [GitHub](https://github.com/MhmRdd/NoHello/releases) |
 | MeowNa                     | [Telegram](https://t.me/MeowRedirect) |
 | *(KernelSU only)* ReZygisk| [GitHub](https://github.com/PerformanC/ReZygisk/releases) |
 

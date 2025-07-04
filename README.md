@@ -67,7 +67,7 @@ This project would not be possible without the contributions of these amazing de
 | [@PerformanC](https://github.com/PerformanC) | Developer of ReZygisk for KernelSU users | [ReZygisk](https://github.com/PerformanC/ReZygisk) |
 | [@LSPosed Team](https://github.com/LSPosed) | Developers of Shamiko root-hiding engine | [Shamiko](https://github.com/LSPosed/LSPosed.github.io) |
 | [@MeowNa](https://t.me/MeowRedirect) | Developer of the MeowNa module (WebUI & full spoof stack) | [Telegram](https://t.me/MeowRedirect) |
-| [@5ec1cff](https://github.com/5ec1cff) | Developer of the NoHello bridge module for WebUI modules | [NoHello](https://github.com/5ec1cff/NoHello) |
+| [@MhmRdd](https://github.com/MhmRdd/) | Developer of the NoHello root-hiding module | [NoHello](https://github.com/MhmRdd/NoHello) |
 
 ❤️ Original work belongs to the respective developers.
 
