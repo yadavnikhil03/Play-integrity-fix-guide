@@ -48,7 +48,7 @@ This guide is provided **as-is** for **educational and research purposes only**.
 
 - You are solely responsible for how you use the information and modules referenced in this repository.
 - Module behavior, compatibility, and results may vary depending on your device, ROM, kernel, and root method.
-- We do **not own** or maintain the third-party modules linked in this guide (e.g., Play Integrity Fix, TrickyStore, MeowNa, etc.).
+- We do **not own** or maintain the third-party modules linked in this guide (e.g., Play Integrity Fix, TrickyStore, etc.).
 - This guide does not guarantee the success of any fix or modification and is not liable for any misuse, damage, or software violations.
 
 > 🧠 Use this guide and any included tools **at your own risk**. If something breaks — you own it, not us.
@@ -66,8 +66,6 @@ This project would not be possible without the contributions of these amazing de
 | [@KOWX712](https://github.com/KOWX712) | Developer of Tricky Addon (target package support) | [Tricky Addon](https://github.com/KOWX712/Tricky-Addon-Update-Target-List) |
 | [@PerformanC](https://github.com/PerformanC) | Developer of ReZygisk for KernelSU users | [ReZygisk](https://github.com/PerformanC/ReZygisk) |
 | [@LSPosed Team](https://github.com/LSPosed) | Developers of Shamiko root-hiding engine | [Shamiko](https://github.com/LSPosed/LSPosed.github.io) |
-| [@MeowNa](https://t.me/MeowRedirect) | Developer of the MeowNa module (WebUI & full spoof stack) | [Telegram](https://t.me/MeowRedirect) |
-| [@MhmRdd](https://github.com/MhmRdd/) | Developer of the NoHello root-hiding module | [NoHello](https://github.com/MhmRdd/NoHello) |
 
 ❤️ Original work belongs to the respective developers.
 
