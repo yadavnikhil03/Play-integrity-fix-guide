@@ -28,7 +28,7 @@
 
 ---
 
-## 🚀 Enhanced Compatibility  
+## My Fav module❤️ 
 <sub>For apps that block root: GPay, banking, UPI, etc.</sub>
 
 <p align="center">
