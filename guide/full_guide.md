@@ -11,18 +11,18 @@
 <table>
   <tr>
     <td align="center" width="45%">
-      <a href="https://github.com/yadavnikhil03/yurikey" target="_blank">
+      <a href="https://github.com/yadavnikhil03/Play-integrity-fix-guide/blob/main/guide/new_guide.md" target="_blank">
         <img src="https://raw.githubusercontent.com/yadavnikhil03/Play-integrity-fix-guide/main/assets/magisk.png" width="70"/><br/>
-        <strong>🔧 Magisk Guide</strong>
+        <strong>Lets Fix</strong>
       </a>
     </td>
     <td align="center" width="10%">
       <!-- Spacer -->
     </td>
     <td align="center" width="45%">
-      <a href="https://github.com/yadavnikhil03/yurikey" target="_blank">
+      <a href="https://github.com/yadavnikhil03/Play-integrity-fix-guide/blob/main/guide/new_guide.md" target="_blank">
         <img src="https://raw.githubusercontent.com/yadavnikhil03/Play-integrity-fix-guide/main/assets/ksu.png" width="70"/><br/>
-        <strong>🧬 KernelSU Guide</strong>
+        <strong>Lets Fix</strong>
       </a>
     </td>
   </tr>
