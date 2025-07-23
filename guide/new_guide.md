@@ -56,9 +56,10 @@ Use any Play Integrity Checker app to confirm:
 
 ## 🏦 If banking apps still detect root
 
-1. Flash Shamiko  
-2. Enable Magisk DenyList  
-3. Add banking apps to DenyList  
-4. Reboot
+1. Flash Shamiko module
+2. Reboot
+3. Reinstall the apk that detecting Root earlier.
+
+Done 
 
 ---
