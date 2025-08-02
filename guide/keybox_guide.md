@@ -34,9 +34,16 @@ If your ROM does not have this feature, you’ll need to use one of the root-bas
 
 ### Step 2: Download the Required Keybox File
 
-1. Visit 👉 [https://tryigit.dev/keybox/](https://tryigit.dev/keybox/)  
-2. Download the latest working `keybox.xml` file  
-3. These files are regularly updated to pass all levels of Play Integrity
+Choose from these reliable sources for `keybox.xml` files:
+
+**🔗 Primary Sources:**
+1. **[https://tryigit.dev/keybox/](https://tryigit.dev/keybox/)** - Regularly updated working keybox files
+2. **[https://integritybox.vercel.app](https://integritybox.vercel.app)** - Alternative source with various keybox options
+3. **[https://github.com/pperez39/google-keys](https://github.com/pperez39/google-keys)** - GitHub repository with keybox files
+
+**💡 Tips:**
+- Try the first source initially, if it doesn't work, move to the next one
+- Download a keybox file that works for you.
 
 ---
 
@@ -69,7 +76,7 @@ If your ROM does not have this feature, you’ll need to use one of the root-bas
    - ✅ **BASIC**
    - ✅ **DEVICE**
    - ✅ **STRONG**
-
+   
 ---
 
 <p align="center">
