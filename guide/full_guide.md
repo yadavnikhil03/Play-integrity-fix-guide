@@ -26,7 +26,7 @@
     </td>
     <td align="center" width="30%">
       <a href="https://github.com/yadavnikhil03/Play-integrity-fix-guide/blob/main/guide/keybox_guide.md" target="_blank">
-        <img src="https://raw.githubusercontent.com/yadavnikhil03/Play-integrity-fix-guide/main/assets/banner.png" width="70"/><br/>
+        <img src="https://raw.githubusercontent.com/yadavnikhil03/Play-integrity-fix-guide/main/assets/keybox_banner.png" width="70"/><br/>
         <strong>Keybox.xml Method</strong><br/>
         <em>(Non-Root)</em>
       </a>

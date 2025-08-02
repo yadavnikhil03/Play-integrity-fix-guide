@@ -1,7 +1,7 @@
 # 🔑 Keybox.xml Method (Non-Root)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yadavnikhil03/Play-integrity-fix-guide/main/assets/banner.png" width="200"/>
+  <img src="https://raw.githubusercontent.com/yadavnikhil03/Play-integrity-fix-guide/main/assets/keybox_banner.png" width="200"/>
 </p>
 
 ## 📋 Prerequisites
