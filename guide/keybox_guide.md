@@ -80,6 +80,5 @@ If your ROM does not have this feature, you’ll need to use one of the root-bas
 
 <p align="center">
   <a href="../README.md">🏠 Back to Main Guide</a> | 
-  <a href="magisk_guide.md">🔧 Magisk Method</a> | 
-  <a href="ksu_guide.md">⚡ KernelSU Method</a>
+  <a href="new_guide.md">🔧 Root Guide</a> | 
 </p>
