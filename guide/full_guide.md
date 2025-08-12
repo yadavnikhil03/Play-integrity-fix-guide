@@ -11,14 +11,14 @@
 <table>
   <tr>
     <td align="center" width="30%">
-      <a href="https://github.com/yadavnikhil03/Play-integrity-fix-guide/blob/main/guide/magisk_guide.md" target="_blank">
+      <a href="https://github.com/yadavnikhil03/Play-integrity-fix-guide/blob/main/guide/new_guide.md" target="_blank">
         <img src="https://raw.githubusercontent.com/yadavnikhil03/Play-integrity-fix-guide/main/assets/magisk.png" width="70"/><br/>
         <strong>Magisk Method</strong><br/>
         <em>(Root Required)</em>
       </a>
     </td>
     <td align="center" width="30%">
-      <a href="https://github.com/yadavnikhil03/Play-integrity-fix-guide/blob/main/guide/ksu_guide.md" target="_blank">
+      <a href="https://github.com/yadavnikhil03/Play-integrity-fix-guide/blob/main/guide/new_guide.md" target="_blank">
         <img src="https://raw.githubusercontent.com/yadavnikhil03/Play-integrity-fix-guide/main/assets/ksu.png" width="70"/><br/>
         <strong>KernelSU Method</strong><br/>
         <em>(Root Required)</em>
