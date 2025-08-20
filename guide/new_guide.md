@@ -18,7 +18,7 @@
 - [ZygiskNext](https://github.com/Dr-TSNG/ZygiskNext/releases)
 - [TrickyStore](https://github.com/5ec1cff/TrickyStore/releases/)
 - [Play Integrity Fix (Fork)](https://github.com/osm0sis/PlayIntegrityFork/releases/)
-- [IntegrityBox (by MeowNa)](https://github.com/yadavnikhil03/Play-integrity-fix-guide/releases)
+- [IntegrityBox (by MeowNa)](https://github.com/MeowDump/Integrity-Box/releases)
 - [Shamiko (Optional)](https://github.com/LSPosed/LSPosed.github.io/releases)
 
 > ⚠️ **Don’t enable Zygisk in Magisk settings.** ZygiskNext handles it separately.
