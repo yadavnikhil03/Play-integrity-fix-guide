@@ -1,7 +1,7 @@
 # 🗝️ Yuri Keybox Manager Guide
 
 <p align="center">
-  <img src="../assets/yurikey_banner.png" alt="YuriKey" width="350"/>
+  <img src="https://github.com/yadavnikhil03/Play-integrity-fix-guide/blob/main/assets/yurikey.png" alt="YuriKey" width="350"/>
 </p>
 
 ## Overview
