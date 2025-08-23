@@ -1,6 +1,10 @@
 <h1 align="center">🎯 Play Integrity Fix</h1>
 
 <p align="center">
+  <img src="../assets/yurikey_banner.png" alt="YuriKey" width="350"/>
+</p>
+
+<p align="center">
   Select your preferred method to access the full setup guide.
 </p>
 
