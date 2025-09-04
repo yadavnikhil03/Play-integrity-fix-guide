@@ -7,39 +7,41 @@
 ---
 
 <div align="center">
-  <table style="border-spacing: 20px 0;">
+  <table style="border-spacing: 15px;">
     <tr>
-      <td align="center" width="25%" style="vertical-align: top; padding: 16px;">
+      <td align="center" width="50%" style="vertical-align: top; padding: 16px;">
         <a href="https://github.com/yadavnikhil03/Play-integrity-fix-guide/blob/main/guide/new_guide.md" target="_blank">
           <img src="https://raw.githubusercontent.com/yadavnikhil03/Play-integrity-fix-guide/main/assets/magisk.png" width="70"/><br/>
           <strong>Magisk Method</strong><br/>
           <em>(Root Required)</em>
         </a>
       </td>
-      <td align="center" width="25%" style="vertical-align: top; padding: 16px;">
+      <td align="center" width="50%" style="vertical-align: top; padding: 16px;">
         <a href="https://github.com/yadavnikhil03/Play-integrity-fix-guide/blob/main/guide/new_guide.md" target="_blank">
           <img src="https://raw.githubusercontent.com/yadavnikhil03/Play-integrity-fix-guide/main/assets/ksu.png" width="70"/><br/>
           <strong>KernelSU Method</strong><br/>
           <em>(Root Required)</em>
         </a>
       </td>
-      <td align="center" width="25%" style="vertical-align: top; padding: 16px;">
+    </tr>
+    <tr>
+      <td align="center" width="50%" style="vertical-align: top; padding: 16px;">
         <a href="https://github.com/yadavnikhil03/Play-integrity-fix-guide/blob/main/guide/keybox_guide.md" target="_blank">
           <img src="https://raw.githubusercontent.com/yadavnikhil03/Play-integrity-fix-guide/main/assets/keybox_banner.png" width="70"/><br/>
           <strong>Keybox.xml Method</strong><br/>
           <em>(Non-Root)</em>
         </a>
       </td>
-      <td align="center" width="25%" style="vertical-align: top; padding: 16px;">
+      <td align="center" width="50%" style="vertical-align: top; padding: 16px;">
         <a href="https://github.com/yadavnikhil03/Play-integrity-fix-guide/blob/main/guide/yurikey_guide.md" target="_blank">
-          <img src="https://github.com/yadavnikhil03/Play-integrity-fix-guide/blob/main/assets/yurikey.png" width="70"/><br/>
+          <img src="https://raw.githubusercontent.com/yadavnikhil03/Play-integrity-fix-guide/main/assets/yurikey.png" width="70"/><br/>
           <strong>YuriKey Method</strong><br/>
           <em>(Root + Bootloader Spoof)</em>
         </a>
       </td>
     </tr>
     <tr>
-      <td align="center" colspan="4" style="padding-top: 15px;">
+      <td align="center" colspan="2" style="padding-top: 15px;">
         <small><em>💡 Choose Keybox.xml method if your ROM has import keybox option available.<br/>
         💡 Choose YuriKey method for a one-click strong integrity fix and bootloader spoofing.</em></small>
       </td>
