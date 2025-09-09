@@ -41,9 +41,20 @@
       </td>
     </tr>
     <tr>
+      <td align="center" colspan="2" style="vertical-align: top; padding: 16px; border: 2px solid #4CAF50; border-radius: 8px; background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);">
+        <a href="https://github.com/yadavnikhil03/Play-integrity-fix-guide/blob/main/guide/advanced_trickystore_guide.md" target="_blank">
+          <img src="https://raw.githubusercontent.com/yadavnikhil03/Play-integrity-fix-guide/main/assets/magisk.png" width="50" style="margin-right: 10px;"/>
+          <img src="https://raw.githubusercontent.com/yadavnikhil03/Play-integrity-fix-guide/main/assets/ksu.png" width="50"/><br/>
+          <strong style="font-size: 1.1em; color: #2E7D32;">🔧 Advanced TrickyStore Method</strong><br/>
+          <em style="color: #1565C0;">(Root + Hardware Attestation + Maximum Compatibility)</em><br/>
+        </a>
+      </td>
+    </tr>
+    <tr>
       <td align="center" colspan="2" style="padding-top: 15px;">
         <small><em>💡 Choose Keybox.xml method if your ROM has import keybox option available.<br/>
-        💡 Choose YuriKey method for a one-click strong integrity fix and bootloader spoofing.</em></small>
+        💡 Choose YuriKey method for a one-click strong integrity fix and bootloader spoofing.<br/>
+        🔧 Choose Advanced TrickyStore method for maximum compatibility and hardware attestation spoofing.</em></small>
       </td>
     </tr>
   </table>
