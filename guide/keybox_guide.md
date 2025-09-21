@@ -34,13 +34,13 @@ If your ROM does not have this feature, you’ll need to use one of the root-bas
 
 ### Step 2: Download the Required Keybox File
 
+
 Choose from these reliable sources for `keybox.xml` files:
 
 **🔗 Primary Sources:**
-1. **[https://keybox-integrityhub.vercel.app/](https://keybox-integrityhub.vercel.app/)** - 🌟 **RECOMMENDED** - Easy download and get the integrity box
+1. **[https://integritybox.vercel.app](https://integritybox.vercel.app)** - 🌟 **RECOMMENDED** - Easy download and get the integrity box
 2. **[https://tryigit.dev/keybox/](https://tryigit.dev/keybox/)** - Regularly updated working keybox files
-3. **[https://integritybox.vercel.app](https://integritybox.vercel.app)** - Alternative source with various keybox options
-4. **[https://github.com/pperez39/google-keys](https://github.com/pperez39/google-keys)** - GitHub repository with keybox files
+3. **[https://github.com/pperez39/google-keys](https://github.com/pperez39/google-keys)** - GitHub repository with keybox files
 
 **💡 Tips:**
 - Try the first source initially, if it doesn't work, move to the next one
