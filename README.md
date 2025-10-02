@@ -1,70 +1,136 @@
-<h1 align="center">🔐 Play Integrity Fix Guide</h1>
+<div align="center">
 
-<p align="center">
-  <img src="assets/banner.png" width="100%" />
-</p>
+# 🔐 Play Integrity Fix Guide
 
-<p align="center">
-  <strong>Pass Basic, Device & Strong Integrity on Rooted or Custom ROM Android</strong><br>
-  <em>Magisk | KernelSU | Android 8+ | Works with GPay, Banking Apps, etc.</em>
-</p>
+<img src="assets/banner.png" width="100%" alt="Play Integrity Fix Guide Banner" />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Android--green" />
-  <img src="https://img.shields.io/badge/Magisk-Supported-blue" />
-  <img src="https://img.shields.io/badge/KernelSU-Compatible-yellow" />
-  <img src="https://img.shields.io/badge/License-MIT-green" />
-</p>
+**Pass Basic, Device & Strong Integrity on Rooted or Custom ROM Android**
 
----
+*Comprehensive guide for Magisk, KernelSU, Android 13+ Recommended*
+
+[![Android](https://img.shields.io/badge/Android-13+-brightgreen?style=for-the-badge&logo=android)](https://developer.android.com)
+[![Magisk](https://img.shields.io/badge/Magisk-Supported-blue?style=for-the-badge&logo=magisk)](https://github.com/topjohnwu/Magisk)
+[![KernelSU](https://img.shields.io/badge/KernelSU-Compatible-yellow?style=for-the-badge)](https://kernelsu.org)
+[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
+
+</div>
 
 ## 📋 Overview
 
-This repository provides a complete, tested, and up-to-date guide to help you pass all levels of **Google Play Integrity API** (Basic, Device & Strong) on rooted and custom ROM devices.
+This repository provides a **complete, tested, and up-to-date guide** to help you pass all levels of **Google Play Integrity API** (Basic, Device & Strong) on rooted and custom ROM devices.
+
+### What you'll achieve:
+✅ **Basic Integrity** - Pass basic device checks  
+✅ **Device Integrity** - Pass hardware attestation  
+✅ **Strong Integrity** - Pass the highest security level  
+
+### Who is this for?
+- Users with **rooted** Android devices (Magisk/KernelSU)  
+- **Custom ROM** users who need Play Integrity
 
 ---
 
-## 📘 Full Guide
+## 🚀 Main Guide
 
-👉 Click below to access the full step-by-step guide, tools, and troubleshooting:
+<div align="center">
 
-### [▶️ Read the Full Guide →](guide/full_guide.md)
+### [📖 **ACCESS FULL STEP-BY-STEP GUIDE** →](guide/full_guide.md)
 
----
+*Complete walkthrough with tools, methods, and troubleshooting*
 
-## ❓ FAQ
-
-**Q:** Who is this guide for?  
-**A:** Anyone using rooted or custom ROM devices who needs to pass Google Play Integrity for apps like GPay, banking, or games.
-
-**Q:** Does this work on Android 14?  
-**A:** Yes — verified on Android 13,14 & 15 with both Magisk and KernelSU.
+</div>
 
 ---
 
-## ⚠️ Disclaimer
+## ⚠️ Important Disclaimer
 
-This guide is provided **as-is** for **educational and research purposes only**.
+**This guide is provided as-is for educational purposes only.**
 
-- You are solely responsible for how you use the information and modules referenced in this repository.
-- Module behavior, compatibility, and results may vary depending on your device, ROM, kernel, and root method.
-- We do **not own** or maintain the third-party modules linked in this guide (e.g., Play Integrity Fix, TrickyStore, etc.).
-- This guide does not guarantee the success of any fix or modification and is not liable for any misuse, damage, or software violations.
+- You are solely responsible for how you use the information and modules referenced in this repository
+- Module behavior, compatibility, and results may vary depending on your device, ROM, kernel, and root method  
+- We do **not own** or maintain the third-party modules linked in this guide (e.g., Play Integrity Fix, TrickyStore, etc.)
+- This guide does not guarantee the success of any fix and is not liable for any misuse, damage, or software violations
 
-> 🧠 Use this guide and any included tools **at your own risk**. If something breaks — you own it, not us.
+> 🧠 **Use this guide and any included tools at your own risk.** If something breaks — you own it, not us.
 
 ---
 
-## 🙏 Acknowledgments
+<details>
+<summary><strong>❓ Frequently Asked Questions</strong></summary>
 
-This guide utilizes various open-source modules and tools developed by the Android modding community. We acknowledge and thank all the developers and contributors who make these tools possible.
+### General Questions
 
-> 📄 Licensed under the [MIT License](LICENSE). All third-party modules retain their original licenses and credits.
+**Q: Does this work on Android 14/15?**  
+A: Yes — verified on Android 13, 14 & 15 with both Magisk and KernelSU. Android 13+ recommended for best results.
 
-## ⭐ Support
-<h2 align="center">🌟 Support This Project!</h2>
+**Q: What devices are supported?**  
+A: Most Android devices running Android 13+ with Magisk or KernelSU root access.
 
-<p align="center" style="font-size:1.5em;">
-  <strong>If you find this project helpful,<br>
-  please consider giving it a ⭐ to support future updates!</strong>
-</p>
+**Q: Will this affect my device warranty?**  
+A: Rooting and modifying your device typically voids warranty. Proceed at your own risk.
+
+### Compatibility Questions
+
+**Q: Can I use this with banking apps?**  
+A: Yes, this guide specifically helps bypass Play Integrity checks used by banking and payment apps.
+
+**Q: Will this work with my custom ROM?**  
+A: Yes, the guide covers methods for popular custom ROMs including LineageOS, Pixel Experience, and others.
+
+**Q: Do I need specific modules?**  
+A: Yes, you'll need Play Integrity Fix and TrickyStore modules. The guide explains installation.
+
+### Troubleshooting
+
+**Q: What if my integrity still fails?**  
+A: The guide includes comprehensive troubleshooting steps and alternative methods.
+
+**Q: Is this safe for my device?**  
+A: When followed correctly, yes. However, any modifications carry inherent risks.
+
+</details>
+
+<details>
+<summary><strong>🙏 Credits & Acknowledgments</strong></summary>
+
+### Open Source Community
+
+This guide utilizes various open-source modules and tools developed by the Android modding community. We acknowledge and thank all the developers and contributors who make these tools possible. ❤️
+
+### Resources & Tools:
+- Various XDA developers and researchers
+- GitHub open source community
+- Android security researchers
+- Beta testers and early adopters
+
+> 📄 **License:** This project is licensed under the [MIT License](LICENSE). All third-party modules retain their original licenses and credits.
+
+### Contributing
+We welcome contributions to improve this guide. Feel free to submit issues, suggestions, or pull requests to help make this resource better for everyone.
+
+</details>
+
+---
+
+## 🌟 Support This Project
+
+<div align="center">
+
+<table cellspacing="20" style="border: none;">
+  <tr align="center">
+    <td style="border: none;">
+      <a href="https://github.com/yadavnikhil03/Play-integrity-fix-guide" target="_blank" style="text-decoration: none; color: inherit;">
+        <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="Star" width="150" style="border: none;"><br>
+        <strong>⭐ Star This Repository</strong><br>
+        <em>Show your appreciation</em>
+      </a>
+    </td>
+    <td style="border: none;">
+      <a href="https://github.com/yadavnikhil03/Play-integrity-fix-guide/issues" target="_blank" style="text-decoration: none; color: inherit;">
+        <img src="https://github.githubassets.com/images/modules/site/icons/footer/github-mark.svg" alt="Issues" width="150" style="border: none;"><br>
+        <strong>🐛 Report Issues</strong><br>
+        <em>Help improve this guide</em>
+      </a>
+    </td>
+  </tr>
+</table>
