@@ -1,0 +1,19 @@
+# Binary files - treat as binary to avoid line ending conversion issues
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.apk binary
+*.zip binary
+
+# Text files - ensure consistent line endings
+*.md text eol=lf
+*.txt text eol=lf
+*.json text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+
+# Documentation files
+LICENSE text eol=lf
+README.md text eol=lf
