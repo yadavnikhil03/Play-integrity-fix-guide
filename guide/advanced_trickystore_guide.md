@@ -17,6 +17,8 @@ This is an **advanced method** that combines multiple modules for maximum compat
 - ✅ **Show bootloader as locked** in key attestation
 - ✅ **Provide strong hardware attestation spoofing**
 
+> 🚨 **WARNING:** Uses third-party/imported keyboxes and a spoof provider to produce forged attestation — not OEM hardware-backed; will often fail with Google Wallet, other security-sensitive apps.
+
 > 🚨 **WARNING:** Follow the exact order of installation and configuration. Skipping steps may cause the method to fail.
 
 ---
