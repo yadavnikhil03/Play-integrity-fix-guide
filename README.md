@@ -116,21 +116,13 @@ We welcome contributions to improve this guide. Feel free to submit issues, sugg
 
 <div align="center">
 
-<table cellspacing="20" style="border: none;">
-  <tr align="center">
-    <td style="border: none;">
-      <a href="https://github.com/yadavnikhil03/Play-integrity-fix-guide" target="_blank" style="text-decoration: none; color: inherit;">
-        <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="Star" width="150" style="border: none;"><br>
-        <strong>⭐ Star This Repository</strong><br>
-        <em>Show your appreciation</em>
-      </a>
-    </td>
-    <td style="border: none;">
-      <a href="https://github.com/yadavnikhil03/Play-integrity-fix-guide/issues" target="_blank" style="text-decoration: none; color: inherit;">
-        <img src="https://github.githubassets.com/images/modules/site/icons/footer/github-mark.svg" alt="Issues" width="150" style="border: none;"><br>
-        <strong>🐛 Report Issues</strong><br>
-        <em>Help improve this guide</em>
-      </a>
-    </td>
-  </tr>
-</table>
+<a href="https://github.com/yadavnikhil03/Play-integrity-fix-guide" target="_blank">
+  ⭐ <strong>Star this repo</strong>
+</a>
+&nbsp;•&nbsp;
+<a href="https://github.com/yadavnikhil03/Play-integrity-fix-guide/issues" target="_blank">
+  🐛 <strong>Report issues</strong>
+</a>
+
+</div>
+
