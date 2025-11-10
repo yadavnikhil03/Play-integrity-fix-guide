@@ -17,7 +17,7 @@ This is an **advanced method** that combines multiple modules for maximum compat
 - ✅ **Show bootloader as locked** in key attestation
 - ✅ **Provide strong hardware attestation spoofing**
 
-> 🚨 **CRITICAL DISCLAIMER:** This method uses **fake/banned keyboxes** and provides **fake strong attestation**. While it uses a spoof provider to fool some apps into believing it's valid, it **WILL NOT** fool sophisticated apps like **Google Wallet**, **Google RCS**, or other apps that perform stricter validation. The attestation is not genuine and may be detected by security-conscious applications.
+> 🚨 **CRITICAL DISCLAIMER:** This method uses **third-party keyboxes** and provides **spoofed strong attestation** through a spoof provider. While this approach may work with many apps, it **WILL NOT** fool sophisticated apps like **Google Wallet**, **Google RCS**, or other apps that perform stricter validation. These security-conscious applications may detect that the attestation is not from genuine device hardware.
 
 > 🚨 **WARNING:** Follow the exact order of installation and configuration. Skipping steps may cause the method to fail.
 
