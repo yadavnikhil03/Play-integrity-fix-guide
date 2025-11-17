@@ -1,8 +1,11 @@
-# 🔧 Advanced TrickyStore Method (Root Required)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yadavnikhil03/Play-integrity-fix-guide/main/assets/adv.png" width="120"/>
+</p>
+
+<h1 align="center">Advanced TrickyStore Method</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yadavnikhil03/Play-integrity-fix-guide/main/assets/magisk.png" width="80"/>
-  <img src="https://raw.githubusercontent.com/yadavnikhil03/Play-integrity-fix-guide/main/assets/ksu.png" width="80"/>
+  Root Required
 </p>
 
 ## 📋 Prerequisites

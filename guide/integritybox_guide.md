@@ -1,13 +1,11 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yadavnikhil03/Play-integrity-fix-guide/main/assets/magisk.png" width="100"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/yadavnikhil03/Play-integrity-fix-guide/main/assets/ksu.png" width="100"/>
+  <img src="https://raw.githubusercontent.com/yadavnikhil03/Play-integrity-fix-guide/main/assets/meow.png" width="120"/>
 </p>
 
-<h1 align="center">🚀 Universal Play Integrity Fix</h1>
+<h1 align="center">IntegrityBox Method</h1>
 
 <p align="center">
-  Works with both Magisk and KernelSU.  
+  Works with both Magisk and KernelSU<br/>
   Clean setup. Passes all integrity checks.
 </p>
 

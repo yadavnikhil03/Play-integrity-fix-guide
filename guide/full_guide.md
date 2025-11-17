@@ -6,9 +6,9 @@
 <tr>
 <td width="50%" align="center">
 
-<h3><a href="https://github.com/yadavnikhil03/Play-integrity-fix-guide/blob/main/guide/new_guide.md">IntegrityBox (MeowNa)</a></h3>
+<h3><a href="https://github.com/yadavnikhil03/Play-integrity-fix-guide/blob/main/guide/integritybox_guide.md">IntegrityBox (MeowNa)</a></h3>
 
-<a href="https://github.com/yadavnikhil03/Play-integrity-fix-guide/blob/main/guide/new_guide.md">
+<a href="https://github.com/yadavnikhil03/Play-integrity-fix-guide/blob/main/guide/integritybox_guide.md">
 <img src="https://raw.githubusercontent.com/yadavnikhil03/Play-integrity-fix-guide/main/assets/meow.png" width="85"/>
 </a>
 
