@@ -1,53 +1,25 @@
-# Contributing to Play Integrity Fix Guide
+# Contributing
 
-Thank you for considering contributing to this project! Here are some guidelines to help maintain the quality and performance of the repository.
+Thanks for helping out! Here's what to keep in mind:
 
-## Image Guidelines
+## Keep It Simple
 
-To keep the repository lightweight and fast, please follow these guidelines when adding images:
+- Fix typos, update links, improve clarity
+- Don't add unnecessary files
+- Keep images small (compress them first)
 
-### Image Optimization
+## What NOT to Add
 
-Before committing images to the repository, please optimize them:
+- ❌ APK files, ZIPs, or executables
+- ❌ Large uncompressed images
+- ❌ Personal configs or device-specific hacks
 
-**For PNG images:**
-```bash
-# Install optimization tools
-sudo apt-get install pngquant optipng
+Use links to official releases instead.
 
-# Optimize with pngquant (lossy compression, good for photos/complex images)
-pngquant --quality=65-80 --speed 1 --force --output optimized.png original.png
+## Before Submitting
 
-# Optimize with optipng (lossless compression, good for simple graphics)
-optipng -o7 image.png
-```
+1. Test your changes
+2. Make sure links work
+3. Keep it clear and helpful
 
-**Target sizes:**
-- Icons/logos: < 20KB
-- Screenshots: < 500KB
-- Banners: < 800KB
-
-### Binary Files
-
-- **Do NOT commit binary files** like APKs, ZIPs, or executables
-- Instead, reference download links to official releases on GitHub or other sources
-- This keeps the repository lightweight and ensures users get the latest versions
-
-### Best Practices
-
-1. **Use relative paths** for local assets in markdown files
-2. **Compress images** before committing
-3. **Reference external files** via links instead of committing them
-4. **Test your changes** to ensure images load correctly
-5. **Keep commits focused** on a single improvement or fix
-
-## Pull Request Guidelines
-
-When submitting a PR:
-
-1. Ensure all images are optimized
-2. Test that documentation renders correctly
-3. Verify all links work properly
-4. Include a clear description of changes
-
-Thank you for helping keep this project efficient and maintainable!
+That's it. Keep the guide useful for everyone trying to fix Play Integrity.
