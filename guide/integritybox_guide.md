@@ -34,10 +34,12 @@
 
 ## ✅ To check the Integrity!
 
-Use any Play Store app to confirm:
-- Open the Play Store APP 
--Tap on the Profie Picture, tap on 'Settings', then tap 'About,
--if it shows Play Protection certification "Device is certified". You are ✅. 
+⚠️ **WARNING:** Do NOT check integrity via third-party apps (like Play Integrity API Checker) on custom ROMs, as it may lead to loss of integrity certification. Use only the Play Store app.
+
+- Open the **Play Store APP**
+- Tap on your **Profile Picture**
+- Tap on **'Settings'**, then tap **'About'**
+- If it shows Play Protection certification **"Device is certified"**, you are ✅ 
 
 ---
 

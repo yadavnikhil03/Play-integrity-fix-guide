@@ -30,15 +30,20 @@ Download and install the following modules:
 
 ## 🔍 Verification & Strong Integrity Fix
 
+⚠️ **WARNING:** Do NOT check integrity via third-party apps on custom ROMs, as it may lead to loss of integrity certification. Use only the Play Store app.
+
 1. After reboot, confirm all modules are installed and active in Magisk
-2. Check Play Integrity status (using Play Integrity API Checker or similar app)
-   - You may pass **BASIC** and **DEVICE** integrity, but **STRONG** integrity may still fail
+2. Check Play Integrity status using the Play Store app:
+   - Open the **Play Store APP**
+   - Tap on your **Profile Picture**
+   - Tap on **'Settings'**, then tap **'About'**
+   - You may pass the certification, but if not, proceed to step 3
 3. To fix **STRONG** integrity:
    - Open **Magisk**
    - Tap the **action button** for **Yuri Keybox Manager**
    - Wait for the process to complete
-   - Re-check Play Integrity status
-   - You should now pass **BASIC**, **DEVICE**, and **STRONG** integrity
+   - Re-check Play Integrity status using Play Store app
+   - You should now see **"Device is certified"**
 
 ---
 

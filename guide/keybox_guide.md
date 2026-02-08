@@ -70,11 +70,12 @@ For your safety, **do NOT upload your keybox here.**
 
 ### Step 5: Verify Play Integrity Status
 
-1. Install **Play Integrity API Checker** from the Play Store  
-2. Open the app and verify:
-   - ✅ **BASIC**
-   - ✅ **DEVICE**
-   - ✅ **STRONG**
+⚠️ **WARNING:** Do NOT check integrity via third-party apps on custom ROMs, as it may lead to loss of integrity certification. Use only the Play Store app.
+
+1. Open the **Play Store APP**
+2. Tap on your **Profile Picture**
+3. Tap on **'Settings'**, then tap **'About'**
+4. Verify it shows Play Protection certification **"Device is certified"**
    
 ---
 

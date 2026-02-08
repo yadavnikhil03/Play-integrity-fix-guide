@@ -85,16 +85,13 @@ Download the following files from their respective GitHub releases:
 
 ## ✅ Verification
 
-### Check Key Attestation:
-- Open **Key Attestation** app
-- Verify: **Bootloader shows as "LOCKED"**
+⚠️ **WARNING:** Do NOT check integrity via third-party apps on custom ROMs, as it may lead to loss of integrity certification. Use only the Play Store app.
 
 ### Check Play Integrity:
-1. Install **Play Integrity API Checker** from Play Store
-2. Open the app and verify all three checks pass:
-   - ✅ **BASIC**
-   - ✅ **DEVICE** 
-   - ✅ **STRONG**
+1. Open the **Play Store APP**
+2. Tap on your **Profile Picture**
+3. Tap on **'Settings'**, then tap **'About'**
+4. Verify it shows Play Protection certification **"Device is certified"**
 
 ---
 
