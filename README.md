@@ -4,41 +4,52 @@
 
 <img src="assets/banner.png" width="100%" alt="Play Integrity Fix Guide Banner" />
 
-**Pass Basic, Device & Strong Integrity on Rooted or Custom ROM Android**
+**Fix Play Integrity on Rooted & Custom ROM Android**
 
-*Comprehensive guide for Magisk, KernelSU, Android 13+ Recommended*
+*Complete guide with multiple methods for all root solutions*
 
 [![Android](https://img.shields.io/badge/Android-13+-brightgreen?style=for-the-badge&logo=android)](https://developer.android.com)
-[![Magisk](https://img.shields.io/badge/Magisk-Supported-blue?style=for-the-badge&logo=magisk)](https://github.com/topjohnwu/Magisk)
-[![KernelSU](https://img.shields.io/badge/KernelSU-Compatible-yellow?style=for-the-badge)](https://kernelsu.org)
+[![Root Methods](https://img.shields.io/badge/Root%20Methods-All%20Supported-blue?style=for-the-badge)](https://github.com/topjohnwu/Magisk)
+[![Custom ROM](https://img.shields.io/badge/Custom%20ROMs-Compatible-blueviolet?style=for-the-badge)](https://kernelsu.org)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 
 </div>
 
 ## 📋 Overview
 
-This repository provides a **complete, tested, and up-to-date guide** to help you pass all levels of **Google Play Integrity API** (Basic, Device & Strong) on rooted and custom ROM devices.
+This repository provides a **tested, comprehensive guide** to restore **Google Play Integrity** on rooted and custom ROM Android devices. Whether you use Magisk, KernelSU, or any other root solution, you'll find methods that work.
 
-### What you'll achieve:
-✅ **Basic Integrity** - Pass basic device checks  
-✅ **Device Integrity** - Pass hardware attestation  
-✅ **Strong Integrity** - Pass the highest security level  
+### 🎯 What You'll Get:
+- ✅ **Working banking & payment apps** - No more integrity rejection errors  
+- ✅ **Gaming without hassles** - Play demanding games on modified devices  
+- ✅ **Multiple solutions** - Different methods for different scenarios  
+- ✅ **Real-world tested** - Methods verified on Android 13, 14 & 15  
 
-### Who is this for?
-- Users with **rooted** Android devices (Magisk/KernelSU)  
-- **Custom ROM** users who need Play Integrity
+**The reality:** Most apps only need 2 out of 3 integrity checks. Your focus should be on making banking, payment, and gaming apps work — which this guide delivers.
+
+### 📱 Who is this for?
+- Any user with a **rooted device** (Magisk, KernelSU, SuperSU, or other root methods)  
+- **Custom ROM** users facing Play Integrity blocks  
+- Users who need **banking/payment apps** to work on modified devices  
+- **Gamers** who want full compatibility with protected apps
 
 ---
 
-## 🚀 Main Guide
+## 🚀 Choose Your Method
 
 <div align="center">
 
-### [📖 **ACCESS FULL STEP-BY-STEP GUIDE** →](guide/full_guide.md)
+### [📖 **VIEW ALL SOLUTIONS** →](guide/full_guide.md)
 
-*Complete walkthrough with tools, methods, and troubleshooting*
+4 proven methods • Step-by-step guides • Full troubleshooting support
 
 </div>
+
+### 📋 What's Inside:
+- **IntegrityBox** - Works with most devices, root required
+- **YuriKey** - Simplest setup, minimal configuration  
+- **Keybox.xml** - For non-rooted custom ROMs  
+- **TrickyStore Advanced** - When other methods don't work
 
 ---
 
@@ -56,37 +67,22 @@ This repository provides a **complete, tested, and up-to-date guide** to help yo
 ---
 
 <details>
-<summary><strong>❓ Frequently Asked Questions</strong></summary>
+<summary><strong>FAQ</strong></summary>
 
-### General Questions
+**Device compatibility?**  
+Android 13+ on any device with Magisk, KernelSU, SuperSU, or similar root access. Custom ROMs work too.
 
-**Q: Does this work on Android 14/15?**  
-A: Yes — verified on Android 13, 14 & 15 with both Magisk and KernelSU. Android 13+ recommended for best results.
+**Will this work for me (banking, gaming, etc)?**  
+Probably yes. The 4 methods cover most situations. If one doesn't work, try the next.
 
-**Q: What devices are supported?**  
-A: Most Android devices running Android 13+ with Magisk or KernelSU root access.
+**Do I lose my warranty?**  
+Yes, rooting typically voids it.
 
-**Q: Will this affect my device warranty?**  
-A: Rooting and modifying your device typically voids warranty. Proceed at your own risk.
+**Does this require all 3 integrity checks?**  
+No. Most apps run fine with 2 checks passing. Just test your actual apps—if they work, you're good.
 
-### Compatibility Questions
-
-**Q: Can I use this with banking apps?**  
-A: Yes, this guide specifically helps bypass Play Integrity checks used by banking and payment apps.
-
-**Q: Will this work with my custom ROM?**  
-A: Yes, the guide covers methods for popular custom ROMs including LineageOS, Pixel Experience, and others.
-
-**Q: Do I need specific modules?**  
-A: Yes, you'll need Play Integrity Fix and TrickyStore modules. The guide explains installation.
-
-### Troubleshooting
-
-**Q: What if my integrity still fails?**  
-A: The guide includes comprehensive troubleshooting steps and alternative methods.
-
-**Q: Is this safe for my device?**  
-A: When followed correctly, yes. However, any modifications carry inherent risks.
+**What if my apps still don't work?**  
+The full guide has troubleshooting steps. If that fails, try a different method (especially TrickyStore).
 
 </details>
 

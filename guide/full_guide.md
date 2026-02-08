@@ -61,6 +61,6 @@
 
 <p><strong>Not sure?</strong> Root = try YuriKey first • No root = use Keybox.xml</p>
 
-<p>All pass: <strong>BASIC</strong> ✅ <strong>DEVICE</strong> ✅ <strong>STRONG</strong> ✅</p>
+<p><strong>Note:</strong> Most apps work with 2 out of 3 integrity checks. You don't need all 3 to pass — check if your apps are working instead.</p>
 
 </div>
