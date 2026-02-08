@@ -5,7 +5,7 @@
 <h1 align="center">IntegrityBox Method</h1>
 
 <p align="center">
-  Works with both Magisk and KernelSU<br/>
+  Works with Every Root Method<br/>
   Clean setup. Passes all integrity checks.
 </p>
 
@@ -13,13 +13,11 @@
 
 ## 📥 Downloads
 
-- [ZygiskNext](https://github.com/Dr-TSNG/ZygiskNext/releases)
-- [TrickyStore](https://github.com/5ec1cff/TrickyStore/releases/)
-- [Play Integrity Fix (Fork)](https://github.com/osm0sis/PlayIntegrityFork/releases/)
+- [ReZygisk](https://github.com/PerformanC/ReZygisk/releases)
 - [IntegrityBox (by MeowNa)](https://github.com/MeowDump/Integrity-Box/releases)
-- [Shamiko (Optional)](https://github.com/LSPosed/LSPosed.github.io/releases)
+- [Shamiko (To Hide Root)](https://github.com/LSPosed/LSPosed.github.io/releases)
 
-> ⚠️ **Don’t enable Zygisk in Magisk settings.** ZygiskNext handles it separately.
+> ⚠️ **Don’t enable Zygisk in Magisk settings.** ReZygisk handles it separately.
 
 ---
 
@@ -27,28 +25,19 @@
 
 ### 1. Flash the following modules (in order):
 
-- ZygiskNext  
-- TrickyStore  
-- Play Integrity Fix (Fork)
-
-📲 Reboot your device.
-
----
-
-### 2. Flash IntegrityBox
-
-- Flash the latest IntegrityBox (by MeowNa)  
-📲 Reboot again.
+- ReZygisk  
+- Flash the latest IntegrityBox (by MeowNa).  
+📲 Reboot.
+-Click on Action button of IntegrityBox Module wait for process to be done.
 
 ---
 
-## ✅ That's it!
+## ✅ To check the Integrity!
 
-Use any Play Integrity Checker app to confirm:
-
-- `BASIC ✅`
-- `DEVICE ✅`
-- `STRONG ✅`
+Use any Play Store app to confirm:
+- Open the Play Store APP 
+-Tap on the Profie Picture, tap on 'Settings', then tap 'About,
+-if it shows Play Protection certification "Device is certified". You are ✅. 
 
 ---
 
