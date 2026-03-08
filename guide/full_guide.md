@@ -6,17 +6,6 @@
 <tr>
 <td width="50%" align="center">
 
-<h3><a href="https://github.com/yadavnikhil03/Play-integrity-fix-guide/blob/main/guide/integritybox_guide.md">IntegrityBox (MeowNa)</a></h3>
-
-<a href="https://github.com/yadavnikhil03/Play-integrity-fix-guide/blob/main/guide/integritybox_guide.md">
-<img src="https://raw.githubusercontent.com/yadavnikhil03/Play-integrity-fix-guide/main/assets/meow.png" width="85"/>
-</a>
-
-<p><strong>Works with most devices</strong><br/>
-<kbd>Root needed</kbd></p>
-
-</td>
-<td width="50%" align="center">
 
 <h3><a href="https://github.com/yadavnikhil03/Play-integrity-fix-guide/blob/main/guide/yurikey_guide.md">YuriKey</a></h3>
 
@@ -27,6 +16,17 @@
 <p><strong>Easiest setup</strong><br/>
 <kbd>Root needed</kbd></p>
 
+
+</td>
+<td width="50%" align="center">
+
+<h3><a href="https://github.com/yadavnikhil03/Play-integrity-fix-guide/blob/main/guide/integritybox_guide.md">IntegrityBox (MeowNa)</a></h3>
+
+<a href="https://github.com/yadavnikhil03/Play-integrity-fix-guide/blob/main/guide/integritybox_guide.md">
+<img src="https://raw.githubusercontent.com/yadavnikhil03/Play-integrity-fix-guide/main/assets/meow.png" width="85"/>
+</a>
+<p><strong>Updates Regularly</strong><br/>
+<kbd>Root needed</kbd></p>
 </td>
 </tr>
 <tr>
