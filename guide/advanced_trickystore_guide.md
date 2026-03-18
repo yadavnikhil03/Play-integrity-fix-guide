@@ -31,7 +31,7 @@ This is an **advanced method** that combines multiple modules for maximum compat
 Download the following files from their respective GitHub releases:
 
 1. **[ReZygisk](https://github.com/PerformanC/ReZygisk/releases)** 
-2. **[PlayIntegrityFix v4.3-inject-s](https://github.com/KOWX712/PlayIntegrityFix/releases/tag/v4.3-inject-s)**
+2. **[PlayIntegrityFix](https://github.com/KOWX712/PlayIntegrityFix/releases)**
 3. **[TrickyStore](https://github.com/5ec1cff/TrickyStore/releases)** 
 4. **[Tricky Addon Update Target List](https://github.com/KOWX712/Tricky-Addon-Update-Target-List/releases)**
 5. **[KsuWebUI Standalone](https://github.com/5ec1cff/KsuWebUIStandalone/releases)**
