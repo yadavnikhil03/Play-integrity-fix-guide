@@ -19,13 +19,14 @@
 
 This repository provides a **tested, comprehensive guide** to restore **Google Play Integrity** on rooted and custom ROM Android devices. Whether you use Magisk, KernelSU, or any other root solution, you'll find methods that work.
 
-### 🎯 What You'll Get:
-- ✅ **Working banking & payment apps** - No more integrity rejection errors  
-- ✅ **Gaming without hassles** - Play demanding games on modified devices  
-- ✅ **Multiple solutions** - Different methods for different scenarios  
-- ✅ **Real-world tested** - Methods verified on Android 13, 14 & 15  
+> Play Integrity is not about perfection it's about **passing what actually matters**.
 
-**The reality:** Most apps only need 2 out of 3 integrity checks. Your focus should be on making banking, payment, and gaming apps work — which this guide delivers.
+### Most apps only require:
+- `MEETS_BASIC_INTEGRITY` ✅  
+- `MEETS_DEVICE_INTEGRITY` ✅  
+If your apps work → you're done.  
+Don’t chase “perfect integrity” unless needed.
+
 
 ### 📱 Who is this for?
 - Any user with a **rooted device** (Magisk, KernelSU, SuperSU, or other root methods)  
