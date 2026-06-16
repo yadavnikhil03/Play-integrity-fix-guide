@@ -13,11 +13,13 @@
 
 ## 📥 Downloads
 
-- [ReZygisk](https://github.com/PerformanC/ReZygisk/releases)
-- [IntegrityBox (by MeowNa)](https://github.com/MeowDump/Integrity-Box/releases)
+- [Zygisk Next](https://github.com/Dr-TSNG/ZygiskNext/releases)
+- [Tricky Store](https://github.com/5ec1cff/TrickyStore/releases)
 - [Shamiko (To Hide Root)](https://github.com/LSPosed/LSPosed.github.io/releases)
+- [IntegrityBox (by MeowNa)](https://github.com/MeowDump/Integrity-Box/releases)
 
-> ⚠️ **Don’t enable Zygisk in Magisk settings.** ReZygisk handles it separately.
+
+> ⚠️ **Don’t enable Zygisk in Magisk settings.** Zygisk Next handles it separately.
 
 ---
 
@@ -25,10 +27,13 @@
 
 ### 1. Flash the following modules (in order):
 
-- ReZygisk  
-- Flash the latest IntegrityBox (by MeowNa).  
-📲 Reboot.
--Click on Action button of IntegrityBox Module wait for process to be done.
+- Install **Zygisk Next**
+- Install **Tricky Store**
+- Install **Integrity Box**
+- During the installation screen, you will see some options. You can navigate using the **Vol +** and **Vol -** keys or you can go with the default option as well.
+- 📲 **Reboot**
+
+> **Note:** There are tons of other settings also available in the module. You can access them using the [KSU WebUI](https://github.com/5ec1cff/KsuWebUIStandalone/releases) if using Magisk, or simply in KSU/APatch you can tap on the Integrity Box module in the installed modules section.
 
 ---
 
@@ -36,16 +41,18 @@
 
 ⚠️ **WARNING:** Do NOT check integrity via third-party apps (like Play Integrity API Checker) on custom ROMs, as it may lead to loss of integrity certification. Use only the Play Store app.
 
-- Open the **Play Store APP**
+- Open the **Play Store app**
 - Tap on your **Profile Picture**
 - Tap on **'Settings'**, then tap **'About'**
-- If it shows Play Protection certification **"Device is certified"**, you are ✅ 
+- Tap 5-7 times on the **Play Store version**
+- Now go back to **General** in Play Store settings, and there you will find **Developer options**
+- Click on it and you will see **Play Integrity**, tap on **Check integrity**
 
 ---
 
 ## 🏦 If banking apps still detect root
 
-1. Flash Shamiko module
+1. Flash [Shamiko module](https://github.com/LSPosed/LSPosed.github.io/releases)
 2. Reboot
 3. Reinstall the apk that detecting Root earlier.
 
