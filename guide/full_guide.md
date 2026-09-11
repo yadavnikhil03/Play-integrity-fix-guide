@@ -27,6 +27,7 @@
 </a>
 <p><strong>Updates Regularly</strong><br/>
 <kbd>Root needed</kbd></p>
+
 </td>
 </tr>
 <tr>
@@ -55,11 +56,59 @@
 
 </td>
 </tr>
+<tr>
+<td width="100%" colspan="2" align="center">
+
+<details>
+<summary>
+
+<h3>👻 Specter</h3>
+
+<img src="https://specter.dpejoh.com/ghost.svg" width="85"/>
+
+<p><strong>All-in-one, automatic setup</strong><br/>
+<kbd>Root needed</kbd></p>
+
+</summary>
+
+<table width="100%">
+<tr>
+<td width="50%" align="center">
+
+<h3><a href="https://github.com/yadavnikhil03/Play-integrity-fix-guide/blob/main/guide/specter_getting_started_guide.md">🚀 Getting Started</a></h3>
+
+<a href="https://github.com/yadavnikhil03/Play-integrity-fix-guide/blob/main/guide/specter_getting_started_guide.md">
+<img src="https://specter.dpejoh.com/ghost.svg" width="70"/>
+</a>
+
+<p><strong>Install &amp; first-boot setup</strong><br/>
+<kbd>Flash &amp; reboot</kbd></p>
+
+</td>
+<td width="50%" align="center">
+
+<h3><a href="https://github.com/yadavnikhil03/Play-integrity-fix-guide/blob/main/guide/specter_best_setup_guide.md">⚙️ Best Setup</a></h3>
+
+<a href="https://github.com/yadavnikhil03/Play-integrity-fix-guide/blob/main/guide/specter_best_setup_guide.md">
+<img src="https://specter.dpejoh.com/ghost.svg" width="70"/>
+</a>
+
+<p><strong>Recommended modules + Strong integrity</strong><br/>
+<kbd>Minimal &amp; clean</kbd></p>
+
+</td>
+</tr>
+</table>
+
+</details>
+
+</td>
+</tr>
 </table>
 
 <hr/>
 
-<p><strong>Not sure?</strong> Root = try YuriKey first • No root = use Keybox.xml</p>
+<p><strong>Not sure?</strong> Root = try Specter or YuriKey first • No root = use Keybox.xml</p>
 
 <p><strong>Note:</strong> Most apps work with 2 out of 3 integrity checks. You don't need all 3 to pass — check if your apps are working instead.</p>
 

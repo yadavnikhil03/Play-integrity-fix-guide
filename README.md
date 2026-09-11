@@ -47,6 +47,7 @@ Don’t chase “perfect integrity” unless needed.
 </div>
 
 ### 📋 What's Inside:
+- **Specter** - All-in-one module, automatic keybox + props + target.txt
 - **IntegrityBox** - Works with most devices, root required
 - **YuriKey** - Simplest setup, minimal configuration  
 - **Keybox.xml** - For non-rooted custom ROMs  
@@ -95,6 +96,7 @@ The full guide has troubleshooting steps. If that fails, try a different method 
 This guide utilizes various open-source modules and tools developed by the Android modding community. We acknowledge and thank all the developers and contributors who make these tools possible. ❤️
 
 ### Resources & Tools:
+- **dpejoh** — Creator of [Specter](https://github.com/dpejoh/specter), the all-in-one Play Integrity module featured in this guide 🙏
 - Various XDA developers and researchers
 - GitHub open source community
 - Android security researchers
