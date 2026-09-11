@@ -4,6 +4,54 @@
 
 <table align="center" width="85%">
 <tr>
+<td width="100%" colspan="2" align="center">
+
+<details>
+<summary>
+
+<img src="https://specter.dpejoh.com/ghost.svg" width="110" style="display:block; margin:0 auto;"/>
+
+<div style="text-align:center;"><strong style="font-size:1.4em;">Specter</strong></div>
+
+<div style="text-align:center;"><small>All-in-one, automatic setup</small><br/>
+<kbd>Root needed</kbd></div>
+
+</summary>
+
+<table width="100%">
+<tr>
+<td width="50%" align="center">
+
+<h3><a href="https://github.com/yadavnikhil03/Play-integrity-fix-guide/blob/main/guide/specter_getting_started_guide.md">🚀 Getting Started</a></h3>
+
+<a href="https://github.com/yadavnikhil03/Play-integrity-fix-guide/blob/main/guide/specter_getting_started_guide.md">
+<img src="https://specter.dpejoh.com/ghost.svg" width="70"/>
+</a>
+
+<p><strong>Install &amp; first-boot setup</strong><br/>
+<kbd>Flash &amp; reboot</kbd></p>
+
+</td>
+<td width="50%" align="center">
+
+<h3><a href="https://github.com/yadavnikhil03/Play-integrity-fix-guide/blob/main/guide/specter_best_setup_guide.md">⚙️ Best Setup</a></h3>
+
+<a href="https://github.com/yadavnikhil03/Play-integrity-fix-guide/blob/main/guide/specter_best_setup_guide.md">
+<img src="https://specter.dpejoh.com/ghost.svg" width="70"/>
+</a>
+
+<p><strong>Recommended modules + Strong integrity</strong><br/>
+<kbd>Minimal &amp; clean</kbd></p>
+
+</td>
+</tr>
+</table>
+
+</details>
+
+</td>
+</tr>
+<tr>
 <td width="50%" align="center">
 
 
@@ -53,54 +101,6 @@
 
 <p><strong>If others didn't work</strong><br/>
 <kbd>Root needed</kbd></p>
-
-</td>
-</tr>
-<tr>
-<td width="100%" colspan="2" align="center">
-
-<details>
-<summary>
-
-<h3>👻 Specter</h3>
-
-<img src="https://specter.dpejoh.com/ghost.svg" width="85"/>
-
-<p><strong>All-in-one, automatic setup</strong><br/>
-<kbd>Root needed</kbd></p>
-
-</summary>
-
-<table width="100%">
-<tr>
-<td width="50%" align="center">
-
-<h3><a href="https://github.com/yadavnikhil03/Play-integrity-fix-guide/blob/main/guide/specter_getting_started_guide.md">🚀 Getting Started</a></h3>
-
-<a href="https://github.com/yadavnikhil03/Play-integrity-fix-guide/blob/main/guide/specter_getting_started_guide.md">
-<img src="https://specter.dpejoh.com/ghost.svg" width="70"/>
-</a>
-
-<p><strong>Install &amp; first-boot setup</strong><br/>
-<kbd>Flash &amp; reboot</kbd></p>
-
-</td>
-<td width="50%" align="center">
-
-<h3><a href="https://github.com/yadavnikhil03/Play-integrity-fix-guide/blob/main/guide/specter_best_setup_guide.md">⚙️ Best Setup</a></h3>
-
-<a href="https://github.com/yadavnikhil03/Play-integrity-fix-guide/blob/main/guide/specter_best_setup_guide.md">
-<img src="https://specter.dpejoh.com/ghost.svg" width="70"/>
-</a>
-
-<p><strong>Recommended modules + Strong integrity</strong><br/>
-<kbd>Minimal &amp; clean</kbd></p>
-
-</td>
-</tr>
-</table>
-
-</details>
 
 </td>
 </tr>
